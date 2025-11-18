@@ -1,7 +1,7 @@
 # PhotoSweeper – Intelligent Duplicate Photo Finder & Library Clean-Up Tool  
 
 <div align="center">
-  <img src="https://static.macupdate.com/products/53916/l/powerphotos-logo.png?v=1671091598" width="250"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/88/19/8688198b-7388-27f8-9197-3714d6fc9048/AppIcon-0-0-85-220-0-0-6-0-2x-sRGB.png/1200x630bb.png" width="250"/>
 </div>  
 <br>
 
